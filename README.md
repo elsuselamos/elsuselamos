@@ -17,7 +17,7 @@
     <span><b><center>AVAIL</center></b></span>
     <br>
     <a href="https://github.com/tiendat247/testnet/tree/main/avail">
-        <img height="60px" src="https://block-sync.com/wp-content/uploads/2024/02/avail.png" alt="AVAIL">
+        <img height="60px" src="https://pbs.twimg.com/profile_images/1671126588694609920/THQgYJtf_400x400.png" alt="AVAIL">
     </a>
 </td>
 
