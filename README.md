@@ -75,7 +75,12 @@
 	<a href="https://github.com/tiendat247/testnet/tree/main/sonaric">
 <img height=65px src="https://pbs.twimg.com/profile_images/1790180518979620864/xA4bAt7X_400x400.png"></a>
 </td>
-
+<td align="center" width="20%">
+<span><b><center>Ora node</center></b></span>
+<br>
+	<a href="https://github.com/tiendat247/testnet/tree/main/Ora">
+<img height=65px src="https://pbs.twimg.com/profile_images/1778285790126321664/jVXadRx3_400x400.jpg"></a>
+</td>
 </tr>
 
 </tbody>
