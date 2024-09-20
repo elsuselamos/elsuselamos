@@ -33,7 +33,7 @@
 <span><b><center>Mantra</center></b></span> 
 <br>
 	<a href="https://github.com/tiendat247/testnet/tree/main/mantra">
-<img height=60px src="https://block-sync.com/wp-content/uploads/2024/04/DGyZXTcr_400x400.png"></a>
+<img height=60px src="https://pbs.twimg.com/profile_images/1790339778346618880/ihlLQAMC_400x400.jpg"></a>
 </td>
 
 <td align="center" width="20%">
