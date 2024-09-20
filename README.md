@@ -81,6 +81,12 @@
 	<a href="https://github.com/tiendat247/testnet/tree/main/Ora">
 <img height=65px src="https://pbs.twimg.com/profile_images/1778285790126321664/jVXadRx3_400x400.jpg"></a>
 </td>
+<td align="center" width="20%">
+<span><b><center>Hemi Network</center></b></span>
+<br>
+	<a href="https://github.com/tiendat247/testnet/tree/main/hemi">
+<img height=65px src="https://pbs.twimg.com/profile_images/1834303544632991744/QEWxDxD4_400x400.png"></a>
+</td>
 </tr>
 
 </tbody>
