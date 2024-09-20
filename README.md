@@ -47,14 +47,14 @@
 <span><b><center>Tanssi</center></b></span>
 <br>
 	<a href="https://github.com/tiendat247/testnet/tree/main/tanssi">
-<img height=65px src="https://block-sync.com/wp-content/uploads/2024/03/Tanssi_Icon_-_Yellow_-_1000x1000_px-1024x1024.png"></a>
+<img height=65px src="https://pbs.twimg.com/profile_images/1802005573627527168/eqO696at_400x400.jpg"></a>
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Airchains</center></b></span>
 <br>
 	<a href="https://github.com/tiendat247/testnet/tree/main/airchains">
-<img height=65px src="https://block-sync.com/wp-content/uploads/2024/05/airchain.jpg"></a>
+<img height=65px src="https://pbs.twimg.com/profile_images/1689908960726245376/NSEHl_ga_400x400.jpg"></a>
 </td>
 
 
@@ -66,7 +66,7 @@
 <span><b><center>Viper</center></b></span>
 <br>
 	<a href="https://github.com/tiendat247/testnet/tree/main/viper">
-<img height=65px src="https://block-sync.com/wp-content/uploads/2024/04/viper.jpg"></a>
+<img height=65px src="https://pbs.twimg.com/profile_images/1726994057510199296/1-v6W-CJ_400x400.jpg"></a>
 </td>
 
 <td align="center" width="20%">
