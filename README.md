@@ -70,8 +70,10 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>UPDATING...</center></b></span>
+<span><b><center>Sonaric</center></b></span>
 <br>
+	<a href="https://github.com/tiendat247/testnet/tree/main/sonaric">
+<img height=65px src="https://pbs.twimg.com/profile_images/1790180518979620864/xA4bAt7X_400x400.png"></a>
 </td>
 
 </tr>
