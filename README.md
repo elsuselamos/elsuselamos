@@ -37,10 +37,10 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Warden</center></b></span>
+<span><b><center>Vana</center></b></span>
 <br>
-	<a href="https://github.com/tiendat247/testnet/tree/main/warden">
-<img height=65px src="https://block-sync.com/wp-content/uploads/2024/03/1DSgt5Aq_400x400.png"> </a>
+	<a href="https://github.com/tiendat247/testnet/tree/main/vana">
+<img height=65px src="https://pbs.twimg.com/profile_images/1799154241984143360/8UJkaTXV_400x400.jpg"> </a>
 </td>
 
 <td align="center" width="20%">
