@@ -40,7 +40,7 @@
 <span><b><center>Vana</center></b></span>
 <br>
 	<a href="https://github.com/elsusel/testnet/tree/main/vana">
-<img height=65px src="https://pbs.twimg.com/profile_images/1799154241984143360/8UJkaTXV_400x400.jpg"> </a>
+<img height=65px src="https://pbs.twimg.com/profile_images/1854306364362784777/n_7fkh7I_400x400.jpg"> </a>
 </td>
 
 <td align="center" width="20%">
