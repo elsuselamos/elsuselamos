@@ -57,8 +57,6 @@
 <img height=65px src="https://pbs.twimg.com/profile_images/1689908960726245376/NSEHl_ga_400x400.jpg"></a>
 </td>
 
-
-
 </tr>
 
 <tr>
@@ -66,7 +64,7 @@
 <span><b><center>Allora</center></b></span>
 <br>
 	<a href="https://github.com/elsusel/testnet/tree/main/allora">
-<img height=65px src="https://pbs.twimg.com/profile_images/1726994057510199296/1-v6W-CJ_400x400.jpg"></a>
+<img height=65px src="https://pbs.twimg.com/profile_images/1793726657783812096/sDRnXVCd_400x400.jpg"></a>
 </td>
 
 <td align="center" width="20%">
