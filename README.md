@@ -63,9 +63,9 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Viper</center></b></span>
+<span><b><center>Allora</center></b></span>
 <br>
-	<a href="https://github.com/elsusel/testnet/tree/main/viper">
+	<a href="https://github.com/elsusel/testnet/tree/main/allora">
 <img height=65px src="https://pbs.twimg.com/profile_images/1726994057510199296/1-v6W-CJ_400x400.jpg"></a>
 </td>
 
