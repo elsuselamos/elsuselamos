@@ -90,4 +90,4 @@
 
 
 ---
-⭐️ From [ELSUSEL](https://github.com/elsusel)
+⭐️ From [AMOS](https://github.com/elsusel)
