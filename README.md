@@ -28,7 +28,7 @@
 <span><b><center>Mantra</center></b></span> 
 <br>
 	<a href="https://github.com/elsusel/testnet/tree/main/mantra">
-<img height=60px src="https://pbs.twimg.com/profile_images/1790339778346618880/ihlLQAMC_400x400.jpg"></a>
+<img height=60px src="https://pbs.twimg.com/profile_images/1876108759942217728/4U-MRuc5_400x400.jpg"></a>
 </td>
 
 <td align="center" width="20%">
@@ -42,14 +42,14 @@
 <span><b><center>Tanssi</center></b></span>
 <br>
 	<a href="https://github.com/elsusel/testnet/tree/main/tanssi">
-<img height=65px src="https://pbs.twimg.com/profile_images/1802005573627527168/eqO696at_400x400.jpg"></a>
+<img height=65px src="https://pbs.twimg.com/profile_images/1874826799311413248/rvV9cqF3_400x400.jpg"></a>
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Airchains</center></b></span>
 <br>
 	<a href="https://github.com/elsusel/testnet/tree/main/airchains">
-<img height=65px src="https://pbs.twimg.com/profile_images/1689908960726245376/NSEHl_ga_400x400.jpg"></a>
+<img height=65px src="https://pbs.twimg.com/profile_images/1871581245085450240/_IQYv51O_400x400.jpg"></a>
 </td>
 
 </tr>
@@ -72,13 +72,13 @@
 <span><b><center>Ora node</center></b></span>
 <br>
 	<a href="https://github.com/elsusel/testnet/tree/main/Ora">
-<img height=65px src="https://pbs.twimg.com/profile_images/1778285790126321664/jVXadRx3_400x400.jpg"></a>
+<img height=65px src="https://pbs.twimg.com/profile_images/1874185797433528320/ICgKXfHv_400x400.jpg"></a>
 </td>
 <td align="center" width="20%">
 <span><b><center>Hemi</center></b></span>
 <br>
 	<a href="https://github.com/elsusel/testnet/tree/main/hemi">
-<img height=65px src="https://pbs.twimg.com/profile_images/1834303544632991744/QEWxDxD4_400x400.png"></a>
+<img height=65px src="https://pbs.twimg.com/profile_images/1869378436231204864/_ddNi_tQ_400x400.jpg"></a>
 </td>
 </tr>
 
