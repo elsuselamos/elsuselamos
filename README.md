@@ -12,7 +12,7 @@
     <span><b><center>AVAIL</center></b></span>
     <br>
     <a href="https://github.com/elsusel/testnet/tree/main/avail">
-        <img height="60px" src="https://pbs.twimg.com/profile_images/1671126588694609920/THQgYJtf_400x400.png" alt="AVAIL">
+        <img height="60px" src="https://pbs.twimg.com/profile_images/1916802973201756160/B64QI4r0_400x400.jpg" alt="AVAIL">
     </a>
 </td>
 
