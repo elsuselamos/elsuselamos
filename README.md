@@ -28,7 +28,7 @@
 <span><b><center>Mantra</center></b></span> 
 <br>
 <a href="https://github.com/elsusel/testnet/tree/main/mantra">
-<img height=60px src="https://pbs.twimg.com/profile_images/1876108759942217728/4U-MRuc5_400x400.jpg"> </a>
+<img height=60px src="https://pbs.twimg.com/profile_images/1898927282028150784/6eE_i7Xg_400x400.jpg"> </a>
 </td>
 
 <td align="center" width="20%">
