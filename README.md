@@ -1,4 +1,4 @@
-#**I'M AMOS**
+![image](https://github.com/user-attachments/assets/aea11319-8fec-4ffb-9d4f-d8443f7fca74)#**I'M AMOS**
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
@@ -62,18 +62,6 @@
 <img height=65px src="https://pbs.twimg.com/profile_images/1793726657783812096/sDRnXVCd_400x400.jpg"></a>
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Sonaric</center></b></span>
-<br>
-	<a href="https://github.com/elsusel/testnet/tree/main/sonaric">
-<img height=65px src="https://pbs.twimg.com/profile_images/1790180518979620864/xA4bAt7X_400x400.png"></a>
-</td>
-<td align="center" width="20%">
-<span><b><center>Ora node</center></b></span>
-<br>
-	<a href="https://github.com/elsusel/testnet/tree/main/Ora">
-<img height=65px src="https://pbs.twimg.com/profile_images/1874185797433528320/ICgKXfHv_400x400.jpg"></a>
-</td>
 <td align="center" width="20%">
 <span><b><center>Hemi</center></b></span>
 <br>
