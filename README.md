@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/aea11319-8fec-4ffb-9d4f-d8443f7fca74)#**I'M AMOS**
+#**I'M AMOS**
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
