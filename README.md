@@ -22,13 +22,6 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Mantra</center></b></span> 
-<br>
-<a href="https://github.com/elsusel/testnet/tree/main/mantra">
-<img height=60px src="https://pbs.twimg.com/profile_images/1898927282028150784/6eE_i7Xg_400x400.jpg"> </a>
-</td>
-
-<td align="center" width="20%">
 <span><b><center>Vana</center></b></span>
 <br>
 	<a href="https://github.com/elsusel/testnet/tree/main/vana">
@@ -59,12 +52,7 @@
 <img height=65px src="https://pbs.twimg.com/profile_images/1793726657783812096/sDRnXVCd_400x400.jpg"></a>
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Hemi</center></b></span>
-<br>
-	<a href="https://github.com/elsusel/testnet/tree/main/hemi">
-<img height=65px src="https://pbs.twimg.com/profile_images/1869378436231204864/_ddNi_tQ_400x400.jpg"></a>
-</td>
+
 </tr>
 
 </tbody>
